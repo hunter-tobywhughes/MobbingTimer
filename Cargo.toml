@@ -1,0 +1,7 @@
+[package]
+name = "MobbingTimer"
+version = "0.1.0"
+authors = ["THughes"]
+edition = "2018"
+
+[dependencies]
